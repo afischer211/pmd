@@ -29,6 +29,8 @@ local.properties
 # PDT-specific
 .buildpath
 
+# PMD-configuration
+.pmd
 
 #################
 ## Visual Studio
